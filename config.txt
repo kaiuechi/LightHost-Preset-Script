@@ -1,0 +1,1 @@
+{"LightHostExecutableName": "Light Host.exe", "LightHostExecutablePath": "temp", "LightHostSettingsPath": "temp", "LightHostPresetsPath": "temp"}
